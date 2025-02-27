@@ -1,4 +1,4 @@
-![Amazon Prime Power BI Dashboard](https://github.com/rajeswar14/AMAZON_PRIME_POWER_BI/blob/main/Amazon%20Prime%20Dashboard.pn)
+![Amazon Prime Power BI Dashboard](https://github.com/rajeswar14/AMAZON_PRIME_POWER_BI/blob/main/Amazon%20Prime%20Dashboard.png)
 
 # Amazon Prime Sales Analysis Dashboard
 
